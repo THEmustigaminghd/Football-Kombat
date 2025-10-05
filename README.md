@@ -13,12 +13,6 @@ Pick your player from a 4×3 character select screen, hear the announcer call yo
 - Custom font, background, and sound effects
 - Portable single-file executable build (Windows `.exe`) for easy distribution
 
----
-
-## Screenshots
-*(Add screenshots to the repo and reference them here)*
-
----
 
 ## Controls
 - **Arrow keys** — Move cursor / navigate menus  
