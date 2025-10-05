@@ -1,9 +1,9 @@
 # Football Kombat
 
-**Football Kombat** is a fast, arcade-style Pygame fighter where famous footballers are reimagined as Mortal Kombat-style fighters.  
-Pick your player from a 4×3 character select screen, hear the announcer call your name, and enjoy retro-inspired visuals and sounds.
+**Football Kombat** is a **prototype**, simple, concept arcade-style Pygame fighter where famous footballers in a character select screen are reimagined as Mortal Kombat-style fighters by the use of AI generated art.  
+Pick your player from a 4×3 character select screen, hear the announcer call the name of your chosen character, and enjoy retro-inspired visuals and sounds.
 
-**Made by:** the musti gaming hd
+**Made by:** The Musti Gaming HD
 
 ---
 
